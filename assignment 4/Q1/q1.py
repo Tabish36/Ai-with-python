@@ -21,3 +21,8 @@ for count in sample_counts:
     print("Image saved as",filename)
     plt.close()
 print("finished B ex1")
+
+
+
+# answer 4: Small n shows random bumps, large n makes the shape stable and close to theory.
+# answer 5: Extreme deviations shrink with more trials, data returns toward the central pattern.
